@@ -7,15 +7,15 @@
 
 # Site Settings
 title                    : "Yangqin Jiang's Homepage"
-description              : ""
-repository               : "yangqin-jiang/acad-homepage.github.io"
+description              : "PhD student at HKU. Focusing on RecSys, LLMs, and Agent."
+repository               : "yangqin-jiang/yangqin-jiang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  G-PGBDSHX7Q5
 
 # SEO Related
-google_site_verification :  google848cfb7ce4a5956d.html
+google_site_verification :  ABbtY8nFyC7ELqlqCuhq5eDZdtiRWNyX5OUQAMM9qPY
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
