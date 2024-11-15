@@ -14,13 +14,15 @@
 
 ( <sup>#</sup> indicates corresponding authorship.) 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2024</div><img src='./images/diffmm' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024 Oral</div><img src='./images/diffmm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Efficient Data-Free Black-box Adversarial Attack](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Towards_Efficient_Data_Free_Black-Box_Adversarial_Attack_CVPR_2022_paper.html) \\
-<b>Jie Zhang<sup>*</sup></b>, Bo Li<sup>*</sup>, Jianghe Xu, Shuang Wu, Shouhong Ding, Chao Wu<sup>#</sup>. (CVPR 2022) <a href="https://github.com/zj-jayzhang/Data-Free-Transfer-Attack">code</a> 
+DiffMM: Multi-Modal Diffu- sion Model for Recommendation\\
+<b>Yangqin Jiang</b>, Lianghao Xia, Wei Wei, Da Luo, Kangyi Lin,  Chao Huang<sup>#</sup>. (MM'24)  <a href="https://github.com/zj-jayzhang/Data-Free-Transfer-Attack">code</a> 
 
-- In this paper, by rethinking the collaborative relationship between the generator and the substitute model, we design a novel black-box attack framework. The proposed method can efficiently imitate the target model through a small number of queries and achieve high attack success rate.
+- ```html
+  <font color="red">Best Paper Honourable Mention Award (7/1149)</font>
+  ```
 
 </div>
 </div>
