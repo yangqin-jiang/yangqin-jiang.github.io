@@ -17,5 +17,3 @@ redirect_from:
 
 {% include_relative includes/others.md %}
 
-</footer>
-
