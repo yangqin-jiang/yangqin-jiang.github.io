@@ -17,12 +17,10 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024 Oral</div><img src='./images/diffmm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-DiffMM: Multi-Modal Diffu- sion Model for Recommendation\\
-<b>Yangqin Jiang</b>, Lianghao Xia, Wei Wei, Da Luo, Kangyi Lin,  Chao Huang<sup>#</sup>. (MM'24)  <a href="https://github.com/zj-jayzhang/Data-Free-Transfer-Attack">code</a> 
+DiffMM: Multi-Modal Diffusion Model for Recommendation\\
+<b>Yangqin Jiang</b>, Lianghao Xia, Wei Wei, Da Luo, Kangyi Lin,  Chao Huang<sup>#</sup>.  <a href="https://github.com/zj-jayzhang/Data-Free-Transfer-Attack">code</a> 
 
-- ```html
-  <font color="red">Best Paper Honourable Mention Award (7/1149)</font>
-  ```
+🏆 <font color="red">Best Paper Honourable Mention Award (7/1149)</font>
 
 </div>
 </div>
