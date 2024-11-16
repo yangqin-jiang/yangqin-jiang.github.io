@@ -45,8 +45,6 @@ Adaptive Graph Contrastive Learning for Recommendation\\
 </div>
 </div>
 
-- <span style="color: blue; background-color: lightgray; "> ICCV 2023 </span>&nbsp;[Rethinking Data Distillation: Do Not Overlook Calibration](https://arxiv.org/abs/2307.12463), D. Zhu, B. Lei, **Jie Zhang**, Y. Fang, Y. Xie, R. Zhang, D. Xu. 
-- <span style="color: blue; background-color: lightgray; "> ICCV 2023 </span>&nbsp;[TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation](https://arxiv.org/abs/2303.06937), **Jie Zhang**, Chen Chen, Weiming Zhuang, Lingjuan Lv. 
-- <span style="color: blue; background-color: lightgray; "> ICLR 2023 </span>&nbsp;[IDEAL: Query-Efficient Data-Free Learning from Black-Box Models](https://openreview.net/pdf?id=ConT6H7MWL), **Jie Zhang<sup>*</sup>**, Chen Chen<sup>*</sup>, Lingjuan Lyu. <a href="https://github.com/SonyResearch/IDEAL">code</a> 
-- <span style="color: blue; background-color: lightgray; "> Best Student Paper Award, AAAI 2022 FL workshop </span>&nbsp;[GEAR: A Margin-based Federated Adversarial Training Approach](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_34.pdf), Chen Chen<sup>*</sup>, **Jie Zhang**<sup>*</sup>, Lingjuan Lyu. 
+- <span style="color: blue; background-color: lightgray; "> WWW 2024 </span>&nbsp;PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning, Wei Wei, Jiabin Tang, Lianghao Xia,  **Yangqin Jiang**, Chao Huang<sup>#</sup>. 
+- <span style="color: blue; background-color: lightgray; "> ICWS 2021 </span>&nbsp;DGPF: A Dialogue Goal Planning Framework for Cognitive Service Conversational Bot, Bolin Zhang, Zhiying Tu, **Yangqin Jiang**, Shufan He, Guoqing Chao, Dianhui Chu, Xiaofei Xu. 
 
