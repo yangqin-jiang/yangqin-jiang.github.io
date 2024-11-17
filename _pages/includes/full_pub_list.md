@@ -7,6 +7,10 @@
   display: inline-block;
   background-color: lightgray;
 }
+
+
+<style>     .paper-box {         display: flex;         align-items: center;         justify-content: center;         border: 1px solid #ccc;         padding: 10px;     }          .paper-box-image {         flex: 1;         text-align: center;     }          .paper-box-image img {         max-width: 200px;         max-height: 200px;         object-fit: cover;     }          .paper-box-text {         flex: 2;         padding: 0 20px;     } </style>
+
 .blue-text {
   color: blue;
 }
