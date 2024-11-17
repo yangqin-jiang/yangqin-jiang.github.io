@@ -1,6 +1,6 @@
 # 🧐 About Me
 
-Hi there! I am a third-year PhD student in Computer Science at HKU, under the supervision of [Dr. Chao Huang](https://sites.google.com/view/chaoh/home). Before that, I received my Bachelor's degree at Harbin Institute of Technology in July 2022.
+Hi there! I am a third-year PhD student in Computer Science at HKU, under the supervision of [Prof. Chao Huang](https://sites.google.com/view/chaoh/home). Before that, I received my Bachelor's degree at Harbin Institute of Technology in July 2022.
 
 **Research Interests:**
 
