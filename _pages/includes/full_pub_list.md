@@ -13,6 +13,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    border: 1px #ccc;
     padding: 10px;
 }
 .paper-box-image {
