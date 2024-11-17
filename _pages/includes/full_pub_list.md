@@ -25,7 +25,7 @@ DiffMM: Multi-Modal Diffusion Model for Recommendation\\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2024 Oral</div><img src='images/diffkg.png' alt="sym" style="max-width: 400px; max-height: 300px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2024 Oral</div><img src='images/diffkg.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 DiffKG: Knowledge Graph Diffusion Model for Recommendation\\
@@ -37,6 +37,16 @@ DiffKG: Knowledge Graph Diffusion Model for Recommendation\\
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2023</div><img src='images/adagcl.png' alt="sym" style="max-width: 400px; max-height: 300px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Adaptive Graph Contrastive Learning for Recommendation\\
+<b>Yangqin Jiang</b>, Chao Huang<sup>#</sup>, Lianghao Xia.   <a href="https://github.com/zj-jayzhang/Acc-DD/">code</a> 
+
+🏆 <font color="red">Most Influential Paper, 10<sup>th</sup>/497</font>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2023</div><img src='images/adagcl.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Adaptive Graph Contrastive Learning for Recommendation\\
