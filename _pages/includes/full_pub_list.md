@@ -7,9 +7,33 @@
   display: inline-block;
   background-color: lightgray;
 }
+<style>
+    .paper-box {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: 1px solid #ccc;
+        padding: 10px;
+    }
 
-
-<style>     .paper-box {         display: flex;         align-items: center;         justify-content: center;         border: 1px solid #ccc;         padding: 10px;     }          .paper-box-image {         flex: 1;         text-align: center;     }          .paper-box-image img {         max-width: 200px;         max-height: 200px;         object-fit: cover;     }          .paper-box-text {         flex: 2;         padding: 0 20px;     } </style>
+    .paper-box-image {
+        flex: 1;
+        text-align: center;
+    }
+    
+    .paper-box-image img {
+        max-width: 400px;
+        max-height: 300px;
+        object-fit: cover;
+        display: block; /* Ensures the image is centered properly */
+        margin: 0 auto; /* Centers the image horizontally */
+    }
+    
+    .paper-box-text {
+        flex: 2;
+        padding: 0 20px;
+    }
+</style>
 
 .blue-text {
   color: blue;
@@ -18,7 +42,7 @@
 
 ( <sup>#</sup> indicates corresponding authorship.) 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024 Oral</div><img src='images/diffmm.png' alt="sym" style="max-width: 400px; max-height: 300px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024 Oral</div><img src='images/diffmm.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 DiffMM: Multi-Modal Diffusion Model for Recommendation\\
@@ -40,7 +64,7 @@ DiffKG: Knowledge Graph Diffusion Model for Recommendation\\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2023</div><img src='images/adagcl.png' alt="sym" style="max-width: 400px; max-height: 300px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2023</div><img src='images/adagcl.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Adaptive Graph Contrastive Learning for Recommendation\\
