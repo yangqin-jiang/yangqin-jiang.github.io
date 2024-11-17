@@ -12,7 +12,6 @@
 .paper-box {
     display: flex;
     align-items: center;
-  	border: none;
     justify-content: center;
     padding: 10px;
 }
