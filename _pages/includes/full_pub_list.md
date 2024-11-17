@@ -40,6 +40,7 @@
 [DiffMM: Multi-Modal Diffusion Model for Recommendation](https://arxiv.org/abs/2406.11781)\\
 <b>Yangqin Jiang</b>, Lianghao Xia, Wei Wei, Da Luo, Kangyi Lin,  Chao Huang<sup>#</sup>. 
 
+
 🌟 <a href="https://github.com/HKUDS/DiffMM">Open Source Code</a> 🌟
 
 🏆 <font color="red">Best Paper Honourable Mention Award (7/1149)</font>
@@ -49,9 +50,9 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2024 Oral</div><img src='images/diffkg.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [DiffKG: Knowledge Graph Diffusion Model for Recommendation](https://arxiv.org/abs/2312.16890)\\
 <b>Yangqin Jiang</b>, Yuhao Yang, Lianghao Xia, Chao Huang<sup>#</sup>.  
+
 
 🌟 <a href="https://github.com/HKUDS/DiffKG">Open Source Code</a> 🌟
 
@@ -62,7 +63,6 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2023</div><img src='images/adagcl.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Adaptive Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2305.10837)\\
 <b>Yangqin Jiang</b>, Chao Huang<sup>#</sup>, Lianghao Xia.  
 
@@ -74,7 +74,6 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2022</div><img src='images/cssh.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Effective Community Search over Large Star-Schema Heterogeneous Information Networks](https://www.vldb.org/pvldb/vol15/p2307-jiang.pdf)\\
 <b>Yangqin Jiang</b>, Yixiang Fang<sup>#</sup>, Chenhao Ma, Xin Cao, Chunshan Li.   
 
