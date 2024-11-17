@@ -2,6 +2,29 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered Globe</title>
+    <style>
+        /* 设置父容器居中 */
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center; /* 水平居中 */
+            align-items: center;    /* 垂直居中 */
+        }
+
+        /* 设置地球图像容器 */
+        #globe-container {
+            width: 125px; /* 设置宽度 */
+            height: 125px; /* 设置高度 */
+            overflow: hidden; /* 隐藏溢出内容 */
+        }
+    </style>
+</head>
+
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
@@ -217,6 +240,11 @@
   </div>
 </div>
 
-<div id="globe-container" style="width: 150px; height: 150px; overflow: hidden;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NEeGKeJYzuEK_tzwYqYTyDNOAHaX0_9xt6Z6e5wQyBo"></script>
+<!-- <div id="globe-container" style="width: 150px; height: 150px; overflow: hidden;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NEeGKeJYzuEK_tzwYqYTyDNOAHaX0_9xt6Z6e5wQyBo"></script> -->
+
+<div id="globe-container">
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NEeGKeJYzuEK_tzwYqYTyDNOAHaX0_9xt6Z6e5wQyBo"></script>
+    </div>
+
 </div>
