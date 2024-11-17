@@ -22,8 +22,8 @@
     }
     
     .paper-box-image img {
-        max-width: 400px;
-        max-height: 300px;
+        max-width: 200px;
+        max-height: 200px;
         object-fit: cover;
         display: block; /* Ensures the image is centered properly */
         margin: 0 auto; /* Centers the image horizontally */
