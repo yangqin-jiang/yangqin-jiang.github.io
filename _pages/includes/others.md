@@ -9,8 +9,9 @@
     - Transactions on Knowledge and Data Engineering (TKDE)
     - Transactions on Knowledge Discovery from Data (TKDD)
     - Transactions on Neural Networks and Learning Systems (TNNLS)
+    - Transactions on Computational Social Systems (TCSS)
 - Conference Reviewer:
-    - 2025: ICLR, AISTATS.
+    - 2025: ICLR, AISTATS, WWW.
     - 2024: ACM MM, NeurIPS.
 
 # 💻 Internships
