@@ -10,8 +10,9 @@
     - Transactions on Knowledge Discovery from Data (TKDD)
     - Transactions on Neural Networks and Learning Systems (TNNLS)
     - Transactions on Computational Social Systems (TCSS)
+    - Transactions on Systems, Man and Cybernetics: Systems (SMCS)
 - Conference Reviewer:
-    - 2025: ICLR, AISTATS, WWW.
+    - 2025: ICLR, AISTATS, WWW, ICML.
     - 2024: ACM MM, NeurIPS.
 
 # 💻 Internships
