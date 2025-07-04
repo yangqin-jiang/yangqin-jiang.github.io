@@ -12,6 +12,7 @@
     - Transactions on Computational Social Systems (TCSS)
     - Transactions on Systems, Man and Cybernetics: Systems (SMCS)
     - Transactions on Multimedia Computing Communications and Applications (TOMM) 
+    - Journal of Computer Science and Technology (JCST)
     - Engineering Applications of Artificial Intelligence (EAAI)
 - Conference Reviewer:
     - 2025: ICLR, AISTATS, WWW, ICML.
