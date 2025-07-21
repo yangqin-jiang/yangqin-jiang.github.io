@@ -4,7 +4,11 @@ Hi there! I am a third-year PhD student in Computer Science at HKU, under the su
 
 **Research Interests:**
 
-My research interests include recommendation systems, large language models, and agents. I am dedicated to addressing the challenges faced by recommendation systems in different scenarios using technologies such as self-supervised learning and large language models. In the future, I plan to explore topics related to agents, aiming to build personalized and efficient agent systems. 
+My research interests encompass recommendation systems, large language models, and intelligent agents. I am committed to tackling the challenges faced by recommendation systems across various scenarios, utilizing technologies such as self-supervised learning and large language models. Looking ahead, I plan to delve into topics related to intelligent agents, with the goal of developing personalized and efficient agent systems.
 
-I warmly welcome collaborators who are interested in related topics.
+**Ongoing Project:**
+
+GUI Agent.
+
+**I warmly welcome collaborators who share an interest in these related areas.**
 

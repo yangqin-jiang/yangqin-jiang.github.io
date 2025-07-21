@@ -14,8 +14,10 @@
     - Transactions on Multimedia Computing Communications and Applications (TOMM) 
     - Journal of Computer Science and Technology (JCST)
     - Engineering Applications of Artificial Intelligence (EAAI)
+    - Expert Systems With Applications (ESWA)
+    - Neurocomputing (NEUCOM)
 - Conference Reviewer:
-    - 2025: ICLR, AISTATS, WWW, ICML.
+    - 2025: ICLR, AISTATS, WWW, ICML, NeurIPS.
     - 2024: ACM MM, NeurIPS.
 
 # 💻 Internships

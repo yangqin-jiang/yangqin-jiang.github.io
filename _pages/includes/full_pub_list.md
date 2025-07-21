@@ -35,12 +35,30 @@
 
 ( <sup>#</sup> indicates the corresponding authorship.) 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/recgpt.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+[RecGPT: A Foundation Model for Sequential Recommendation](https://arxiv.org/abs/2506.06270)\\
+<b>Yangqin Jiang</b>, Xubin Ren, Lianghao Xia, Da Luo, Kangyi Lin, Chao Huang<sup>#</sup>.   
+
+🌟 <a href="https://github.com/HKUDS/RecGPT">Open Source Code</a> 🌟
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Main</div><img src='images/reclm.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+[RecLM: Recommendation Instruction Tuning](https://arxiv.org/abs/2412.19302)\\
+<b>Yangqin Jiang</b>, Yuhao Yang, Lianghao Xia, Da Luo, Kangyi Lin, Chao Huang<sup>#</sup>.   
+
+🌟 <a href="https://github.com/HKUDS/RecLM">Open Source Code</a> 🌟
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024 Oral</div><img src='images/diffmm.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 [DiffMM: Multi-Modal Diffusion Model for Recommendation](https://arxiv.org/abs/2406.11781)\\
 <b>Yangqin Jiang</b>, Lianghao Xia, Wei Wei, Da Luo, Kangyi Lin,  Chao Huang<sup>#</sup>. 
-
-
 🌟 <a href="https://github.com/HKUDS/DiffMM">Open Source Code</a> 🌟
 
 🏆 <font color="red">Best Paper Honourable Mention Award (7/1149)</font>
@@ -52,8 +70,6 @@
 <div class='paper-box-text' markdown="1">
 [DiffKG: Knowledge Graph Diffusion Model for Recommendation](https://arxiv.org/abs/2312.16890)\\
 <b>Yangqin Jiang</b>, Yuhao Yang, Lianghao Xia, Chao Huang<sup>#</sup>.  
-
-
 🌟 <a href="https://github.com/HKUDS/DiffKG">Open Source Code</a> 🌟
 
 🏆 <font color="red">Top-11 Most Cited Paper, 11<sup>st</sup>/112</font>
@@ -65,7 +81,6 @@
 <div class='paper-box-text' markdown="1">
 [Adaptive Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2305.10837)\\
 <b>Yangqin Jiang</b>, Chao Huang<sup>#</sup>, Lianghao Xia.  
-
 🌟 <a href="https://github.com/HKUDS/AdaGCL">Open Source Code</a> 🌟
 
 🏆 <font color="red">Most Influential Paper, 10<sup>th</sup>/497</font>
@@ -76,11 +91,11 @@
 <div class='paper-box-text' markdown="1">
 [Effective Community Search over Large Star-Schema Heterogeneous Information Networks](https://www.vldb.org/pvldb/vol15/p2307-jiang.pdf)\\
 <b>Yangqin Jiang</b>, Yixiang Fang<sup>#</sup>, Chenhao Ma, Xin Cao, Chunshan Li.   
-
 🌟 <a href="https://github.com/yangqin-jiang/CS-StarSchemaHIN">Open Source Code</a> 🌟
 </div>
 </div>
 
-- <span style="color: blue; background-color: lightgray; "> WWW 2024 </span>&nbsp;[PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning](https://arxiv.org/abs/2402.17188), Wei Wei, Jiabin Tang, Lianghao Xia,  **Yangqin Jiang**, Chao Huang<sup>#</sup>. 🌟 <a href="https://github.com/HKUDS/PromptMM">Open Source Code</a> 🌟
+- <span style="color: blue; background-color: lightgray; "> SIGIR 2025 </span>[Ask and Retrieve Knowledge: Towards Proactive Asking with Imperfect Information in Medical Multi-turn Dialogues](https://dl.acm.org/doi/pdf/10.1145/3726302.3729898), Bolin Zhang, Shengwei Wang, **Yangqin Jiang**, Dianbo Sui, Zhiying Tu, Dianhui Chu. 
+- <span style="color: blue; background-color: lightgray; "> WWW 2024 </span>&nbsp;[PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning](https://arxiv.org/abs/2402.17188), Wei Wei, Jiabin Tang, Lianghao Xia,  **Yangqin Jiang**, Chao Huang<sup>#</sup>. 🌟 <a href="https://github.com/HKUDS/PromptMM">Open Source Code</a> 🌟
 - <span style="color: blue; background-color: lightgray; "> ICWS 2021 </span>&nbsp;DGPF: A Dialogue Goal Planning Framework for Cognitive Service Conversational Bot, Bolin Zhang, Zhiying Tu, **Yangqin Jiang**, Shufan He, Guoqing Chao, Dianhui Chu, Xiaofei Xu. 
 
