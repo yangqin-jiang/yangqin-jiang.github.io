@@ -16,10 +16,12 @@
     - Engineering Applications of Artificial Intelligence (EAAI)
     - Expert Systems With Applications (ESWA)
     - Neurocomputing (NEUCOM)
+    - Information Processing and Management (IPM)
+    - Pattern Recognition (PR)
 - Conference Reviewer:
+    - 2026: AAAI
     - 2025: ICLR, AISTATS, WWW, ICML, NeurIPS.
     - 2024: ACM MM, NeurIPS.
-
 # 💻 Internships
 - *2023.08 - now*, Tencent, WeChat Group, Research Intern, Guangzhou, China.
 - *2021.09 - 2022.06*, The Chinese University of Hong Kong, Shenzhen, Research Assistant, Shenzhen, China.
