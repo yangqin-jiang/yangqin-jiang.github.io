@@ -35,7 +35,7 @@
 
 ( <sup>#</sup> indicates the corresponding authorship.) 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/recgpt.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Main</div><img src='images/recgpt.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 [RecGPT: A Foundation Model for Sequential Recommendation](https://arxiv.org/abs/2506.06270)\\
 <b>Yangqin Jiang</b>, Xubin Ren, Lianghao Xia, Da Luo, Kangyi Lin, Chao Huang<sup>#</sup>.   
