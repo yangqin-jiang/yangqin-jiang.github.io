@@ -10,6 +10,6 @@ My research interests encompass recommendation systems, large language models, a
 <span style="color:#007acc; font-weight:bold;">
 I am currently seeking opportunities in both industry and academia.
 </span>
-<span style="color:#007acc; font-weight:bold; background-color: #e3f2fd; padding: 2px 6px; border-radius: 4px;">
-&#128161; <u>Feel free to contact me about suitable positions.</u>
+<span style="color:#388e3c; font-weight:bold; background-color: #e8f5e9; padding: 2px 6px; border-radius: 4px;">
+<u>Feel free to contact me about suitable positions.</u>
 </span>
