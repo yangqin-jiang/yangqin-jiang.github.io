@@ -19,7 +19,7 @@
     - Information Processing and Management (IPM)
     - Pattern Recognition (PR)
 - Conference Reviewer:
-    - 2026: AAAI
+    - 2026: AAAI, ICLR
     - 2025: ICLR, AISTATS, WWW, ICML, NeurIPS.
     - 2024: ACM MM, NeurIPS.
 # 💻 Internships

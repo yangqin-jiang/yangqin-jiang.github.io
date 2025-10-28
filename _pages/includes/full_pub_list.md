@@ -12,7 +12,7 @@
 .paper-box {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     border: 1px solid #e0e0e0;
     border-radius: 12px;
     padding: 20px;
@@ -28,7 +28,7 @@
 }
 .paper-box-image {
     flex: 0 0 200px;
-    text-align: center;
+    text-align: left;
     margin-right: 20px;
 }
 
@@ -46,6 +46,7 @@
     flex: 1;
     padding: 0;
     line-height: 1.6;
+    text-align: left;
 }
 
 .paper-box-text a {
@@ -62,7 +63,8 @@
 @media (max-width: 768px) {
     .paper-box {
         flex-direction: column;
-        text-align: center;
+        text-align: left;
+        align-items: flex-start;
     }
     
     .paper-box-image {
@@ -95,7 +97,7 @@
 
 ( <sup>#</sup> indicates the corresponding authorship.) 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/lightagent.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/lightagent.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 [LightAgent: Mobile Agentic Foundation Models](https://arxiv.org/abs/2510.22009)\\
 <b>Yangqin Jiang</b>, Chao Huang<sup>#</sup>.   
