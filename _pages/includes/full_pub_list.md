@@ -13,27 +13,97 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px #ccc;
-    padding: 10px;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fafafa;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.paper-box:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transform: translateY(-2px);
 }
 .paper-box-image {
-    flex: 1;
+    flex: 0 0 200px;
     text-align: center;
+    margin-right: 20px;
 }
 
 .paper-box-image img {
-    max-width: 200px;
-    max-height: 200px;
-    object-fit: cover;
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    background-color: white;
+    padding: 10px;
 }
 
 .paper-box-text {
-    flex: 2;
-    padding: 0 20px;
+    flex: 1;
+    padding: 0;
+    line-height: 1.6;
+}
+
+.paper-box-text a {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.paper-box-text a:hover {
+    text-decoration: underline;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .paper-box {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .paper-box-image {
+        flex: none;
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+    
+    .paper-box-image img {
+        width: 150px;
+        height: 150px;
+    }
+    
+    .paper-box-text {
+        flex: none;
+    }
+}
+
+@media (max-width: 480px) {
+    .paper-box {
+        padding: 15px;
+    }
+    
+    .paper-box-image img {
+        width: 120px;
+        height: 120px;
+    }
 }
 </style>
 
 ( <sup>#</sup> indicates the corresponding authorship.) 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/lightagent.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+[LightAgent: Mobile Agentic Foundation Models](https://arxiv.org/abs/2510.22009)\\
+<b>Yangqin Jiang</b>, Chao Huang<sup>#</sup>.   
+
+🌟 <a href="https://github.com/HKUDS/LightAgent">Open Source Code</a> 🌟
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Main</div><img src='images/recgpt.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
