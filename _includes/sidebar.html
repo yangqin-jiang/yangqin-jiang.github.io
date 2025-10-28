@@ -10,5 +10,10 @@
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
   {% endif %}
+  
+  <!-- Footer in sidebar -->
+  <div class="sidebar-footer">
+    <small>Last updated: {{ site.time | date: "%Y-%m-%d" }}</small>
+  </div>
   </div>
 {% endif %}
