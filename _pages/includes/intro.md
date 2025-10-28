@@ -6,4 +6,4 @@ Hi there! I am a final-year PhD student in Computer Science at HKU, under the su
 
 My research interests encompass recommendation systems, large language models, and intelligent agents. I am committed to tackling the challenges faced by recommendation systems across various scenarios, utilizing technologies such as self-supervised learning and large language models. Looking ahead, I plan to delve into topics related to intelligent agents, with the goal of developing personalized and efficient agent systems.
 
-<span style="color:#007acc; font-weight:bold;">I am currently seeking opportunities in both <span style="color:#d9534f;">industry</span> and <span style="color:#5cb85c;">academia</span> (such as postdoc positions).</span> <span style="color:#f0ad4e;">Please feel free to contact me if I am a suitable candidate for your opportunities.</span>
+<span style="color:#007acc; font-weight:bold;">I am currently seeking opportunities in both <span style="color:#d9534f;">industry</span> and <span style="color:#007acc;">academia</span>.</span> <span style="color:#007acc;">Feel free to contact me about suitable positions.</span>
