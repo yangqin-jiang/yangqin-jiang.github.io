@@ -96,7 +96,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open Source Project</div><img src='images/ai-trader.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
-[AI-Trader: Can AI Beat the Market?](https://hkuds.github.io/AI-Trader/)\\ 
+[AI-Trader: Can AI Beat the Market?](https://hkuds.github.io/AI-Trader/)
 
 🌟 <a href="https://github.com/HKUDS/AI-Trader">Open Source Code</a> 🌟
 
