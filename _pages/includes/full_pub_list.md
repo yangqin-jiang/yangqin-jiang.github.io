@@ -56,6 +56,10 @@
     text-decoration: underline;
 }
 
+/* Category tags */
+.tags { margin-top: 6px; display: flex; flex-wrap: wrap; gap: 6px; }
+.tag { display: inline-block; padding: 2px 8px; border-radius: 9999px; font-size: 12px; line-height: 1.6; background: #e3f2fd; color: #0366d6; border: 1px solid #cfe3fb; white-space: nowrap; }
+
 /* 响应式设计 */
 @media (max-width: 768px) {
     .paper-box {
@@ -99,6 +103,11 @@
 [AI-Trader: Can AI Beat the Market?](https://hkuds.github.io/AI-Trader/)
 
 🌟 <a href="https://github.com/HKUDS/AI-Trader">Open Source Code</a> 🌟
+<div class="tags">
+  <span class="tag">Financial Agent</span>
+</div>
+</div>
+</div>
 
 </div>
 </div>
@@ -113,7 +122,9 @@
 <b>Yangqin Jiang</b>, Chao Huang<sup>#</sup>.   
 
 🌟 <a href="https://github.com/HKUDS/LightAgent">Open Source Code</a> 🌟
-
+<div class="tags">
+  <span class="tag">GUI Agent</span>
+</div>
 </div>
 </div>
 
@@ -123,7 +134,10 @@
 <b>Yangqin Jiang</b>, Xubin Ren, Lianghao Xia, Da Luo, Kangyi Lin, Chao Huang<sup>#</sup>.   
 
 🌟 <a href="https://github.com/HKUDS/RecGPT">Open Source Code</a> 🌟
-
+<div class="tags">
+  <span class="tag">Generative Recommendation</span>
+  <span class="tag">Foundation Models</span>
+</div>
 </div>
 </div>
 
@@ -133,7 +147,11 @@
 <b>Yangqin Jiang</b>, Yuhao Yang, Lianghao Xia, Da Luo, Kangyi Lin, Chao Huang<sup>#</sup>.   
 
 🌟 <a href="https://github.com/HKUDS/RecLM">Open Source Code</a> 🌟
-
+<div class="tags">
+  <span class="tag">Recommendation Systems</span>
+  <span class="tag">Instruction Tuning</span>
+  <span class="tag">LLMs</span>
+</div>
 </div>
 </div>
 
@@ -142,7 +160,11 @@
 [DiffMM: Multi-Modal Diffusion Model for Recommendation](https://arxiv.org/abs/2406.11781)\\
 <b>Yangqin Jiang</b>, Lianghao Xia, Wei Wei, Da Luo, Kangyi Lin,  Chao Huang<sup>#</sup>. 
 🌟 <a href="https://github.com/HKUDS/DiffMM">Open Source Code</a> 🌟
-
+<div class="tags">
+  <span class="tag">Recommendation Systems</span>
+  <span class="tag">Multi-Modal</span>
+  <span class="tag">Diffusion Models</span>
+</div>
 🏆 <font color="red">Best Paper Honourable Mention Award (7/1149)</font>
 
 </div>
@@ -153,7 +175,11 @@
 [DiffKG: Knowledge Graph Diffusion Model for Recommendation](https://arxiv.org/abs/2312.16890)\\
 <b>Yangqin Jiang</b>, Yuhao Yang, Lianghao Xia, Chao Huang<sup>#</sup>.  
 🌟 <a href="https://github.com/HKUDS/DiffKG">Open Source Code</a> 🌟
-
+<div class="tags">
+  <span class="tag">Recommendation Systems</span>
+  <span class="tag">Knowledge Graphs</span>
+  <span class="tag">Diffusion Models</span>
+</div>
 🏆 <font color="red">Top-11 Most Cited Paper, 11<sup>st</sup>/112</font>
 
 </div>
@@ -164,7 +190,11 @@
 [Adaptive Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2305.10837)\\
 <b>Yangqin Jiang</b>, Chao Huang<sup>#</sup>, Lianghao Xia.  
 🌟 <a href="https://github.com/HKUDS/AdaGCL">Open Source Code</a> 🌟
-
+<div class="tags">
+  <span class="tag">Recommendation Systems</span>
+  <span class="tag">Graph Learning</span>
+  <span class="tag">Contrastive Learning</span>
+</div>
 🏆 <font color="red">Most Influential Paper, 10<sup>th</sup>/497</font>
 </div>
 </div>
@@ -174,6 +204,11 @@
 [Effective Community Search over Large Star-Schema Heterogeneous Information Networks](https://www.vldb.org/pvldb/vol15/p2307-jiang.pdf)\\
 <b>Yangqin Jiang</b>, Yixiang Fang<sup>#</sup>, Chenhao Ma, Xin Cao, Chunshan Li.   
 🌟 <a href="https://github.com/yangqin-jiang/CS-StarSchemaHIN">Open Source Code</a> 🌟
+<div class="tags">
+  <span class="tag">Graph Databases</span>
+  <span class="tag">Community Search</span>
+  <span class="tag">HIN</span>
+</div>
 </div>
 </div>
 
