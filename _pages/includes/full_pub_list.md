@@ -12,11 +12,12 @@
     justify-content: flex-start;
     border: 1px solid #e0e0e0;
     border-radius: 12px;
-    padding: 20px;
+    padding: 24px 20px 20px 20px; /* extra top padding for tags overlay */
     margin-bottom: 20px;
     background-color: #fafafa;
     transition: all 0.3s ease;
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    position: relative; /* allow tags to be positioned in the corner */
 }
 
 .paper-box:hover {
@@ -57,7 +58,7 @@
 }
 
 /* Category tags */
-.tags { margin-top: 6px; display: flex; flex-wrap: wrap; gap: 6px; }
+.tags { position: absolute; top: 8px; right: 10px; display: flex; flex-wrap: wrap; gap: 6px; z-index: 1; }
 .tag { display: inline-block; padding: 2px 8px; border-radius: 9999px; font-size: 12px; line-height: 1.6; background: #e3f2fd; color: #0366d6; border: 1px solid #cfe3fb; white-space: nowrap; }
 
 /* 响应式设计 */
@@ -106,9 +107,6 @@
 <div class="tags">
   <span class="tag">Financial Agent</span>
 </div>
-</div>
-</div>
-
 </div>
 </div>
 
