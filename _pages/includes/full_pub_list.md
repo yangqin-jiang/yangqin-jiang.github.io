@@ -59,7 +59,7 @@
 
 /* Category tags */
 .tags { position: absolute; top: 8px; right: 10px; display: flex; flex-wrap: wrap; gap: 6px; z-index: 1; }
-.tag { display: inline-block; padding: 2px 8px; border-radius: 9999px; font-size: 12px; line-height: 1.6; background: #e3f2fd; color: #0366d6; border: 1px solid #cfe3fb; white-space: nowrap; }
+.tag { display: inline-block; padding: 2px 8px; border-radius: 9999px; font-size: 13px; line-height: 1.6; background: #e3f2fd; color: #0366d6; border: 1px solid #cfe3fb; white-space: nowrap; }
 
 /* 响应式设计 */
 @media (max-width: 768px) {
