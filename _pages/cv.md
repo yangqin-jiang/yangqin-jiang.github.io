@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: null
 title: CV
 permalink: /cv/
 author_profile: false
