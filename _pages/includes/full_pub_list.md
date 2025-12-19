@@ -161,7 +161,7 @@ Tianyu Fan, Yuhao Yang, <b>Yangqin Jiang</b>, Yifei Zhang, Yuxuan Chen, Chao Hua
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024 Oral</div><img src='images/diffmm.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 [DiffMM: Multi-Modal Diffusion Model for Recommendation](https://arxiv.org/abs/2406.11781)\\
-<b>Yangqin Jiang</b>, Lianghao Xia, Wei Wei, Da Luo, Kangyi Lin,  Chao Huang<sup>#</sup>.\\ 
+<b>Yangqin Jiang</b>, Lianghao Xia, Wei Wei, Da Luo, Kangyi Lin,  Chao Huang<sup>#</sup>.  
 🌟 <a href="https://github.com/HKUDS/DiffMM">Open Source Code</a> 🌟
 <div class="tags">
   <span class="tag">Recommendation Systems</span>
