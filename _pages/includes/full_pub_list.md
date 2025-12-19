@@ -97,22 +97,27 @@
 }
 </style>
 
-## 🛠️ Ongoing Projects
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open Source Project</div><img src='images/ai-trader.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-[AI-Trader: Can AI Beat the Market?](https://hkuds.github.io/AI-Trader/)
-
-🌟 <a href="https://github.com/HKUDS/AI-Trader">Open Source Code</a> 🌟
-<div class="tags">
-  <span class="tag">Financial Agent</span>
-</div>
-</div>
-</div>
-
 # 📝 Selected Publications 
 
 ( <sup>#</sup> indicates the corresponding authorship.) 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open Source Project & Arxiv</div><img src='images/ai-trader.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+[AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets](https://arxiv.org/abs/2512.10971)
+Tianyu Fan, Yuhao Yang, <b>Yangqin Jiang</b>, Yifei Zhang, Yuxuan Chen, Chao Huang<sup>#</sup>.  
+
+🌟 <a href="https://github.com/HKUDS/AI-Trader">Open Source Code</a> 🌟
+
+🌟 <a href="https://ai4trade.ai">Live Trading Bench</a> 🌟 
+
+<div class="tags">
+  <span class="tag">Financial Agent</span>
+</div>
+
+🏆 <font color="red">over ~9.5k Stars on Github</font>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/lightagent.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -164,7 +169,6 @@
   <span class="tag">Diffusion Models</span>
 </div>
 🏆 <font color="red">Best Paper Honourable Mention Award (7/1149)</font>
-
 </div>
 </div>
 
