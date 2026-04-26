@@ -119,10 +119,11 @@ Tianyu Fan, Yuhao Yang, <b>Yangqin Jiang</b>, Yifei Zhang, Yuxuan Chen, Chao Hua
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/lightagent.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/openphone.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 [OpenPhone: Mobile Agentic Foundation Models](https://arxiv.org/abs/2510.22009)\\
 <b>Yangqin Jiang</b>, Chao Huang<sup>#</sup>.   
+
 
 🌟 <a href="https://github.com/HKUDS/LightAgent">Open Source Code</a> 🌟
 <div class="tags">
