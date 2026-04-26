@@ -114,20 +114,23 @@ Tianyu Fan, Yuhao Yang, <b>Yangqin Jiang</b>, Yifei Zhang, Yuxuan Chen, Chao Hua
   <span class="tag">Financial Agent</span>
 </div>
 
-🏆 <font color="red">over ~9.5k Stars on Github</font>
+🏆 <font color="red">over ~10k Stars on Github</font>
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/lightagent.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/reclm.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
-[LightAgent: Mobile Agentic Foundation Models](https://arxiv.org/abs/2510.22009)\\
+[OpenPhone: Mobile Agentic Foundation Models](https://arxiv.org/abs/2510.22009)\\
 <b>Yangqin Jiang</b>, Chao Huang<sup>#</sup>.   
+
 
 🌟 <a href="https://github.com/HKUDS/LightAgent">Open Source Code</a> 🌟
 <div class="tags">
   <span class="tag">GUI Agent</span>
 </div>
+🏆 <font color="red">over ~700 Stars on Github</font>
+
 </div>
 </div>
 

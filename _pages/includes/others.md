@@ -5,7 +5,7 @@
 
 # 💬 Services
 - Conference Reviewer:
-    - 2026: AAAI, ICLR
+    - 2026: AAAI, ICLR, ICML.
     - 2025: ICLR, AISTATS, WWW, ICML, NeurIPS.
     - 2024: ACM MM, NeurIPS.
 - Journal Reviewer: 
@@ -21,9 +21,9 @@
     - Neurocomputing (NEUCOM)
     - Information Processing and Management (IPM)
     - Pattern Recognition (PR)
-  
+
 # 💻 Internships
-- *2023.08 - now*, Tencent, WeChat Group, Research Intern, Guangzhou, China.
+- *2023.08 - 2026.04*, Tencent, WeChat Group, Research Intern, Guangzhou, China.
 - *2021.09 - 2022.06*, The Chinese University of Hong Kong, Shenzhen, Research Assistant, Shenzhen, China.
 
 
