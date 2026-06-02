@@ -5,7 +5,7 @@
 
 # 💬 Services
 - Conference Reviewer:
-    - 2026: AAAI, ICLR, ICML.
+    - 2026: AAAI, ICLR, ICML, NeurIPS.
     - 2025: ICLR, AISTATS, WWW, ICML, NeurIPS.
     - 2024: ACM MM, NeurIPS.
 - Journal Reviewer: 
