@@ -11,8 +11,10 @@
 - Journal Reviewer: 
     - Transactions on Knowledge and Data Engineering (TKDE)
     - Transactions on Knowledge Discovery from Data (TKDD)
+    - Transactions on Machine Learning Research (TMLR)
     - Transactions on Neural Networks and Learning Systems (TNNLS)
     - Transactions on Computational Social Systems (TCSS)
+    - Transactions on Information Systems (TOIS)
     - Transactions on Systems, Man and Cybernetics: Systems (SMCS)
     - Transactions on Multimedia Computing Communications and Applications (TOMM) 
     - Journal of Computer Science and Technology (JCST)
