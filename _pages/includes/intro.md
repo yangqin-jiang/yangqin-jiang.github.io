@@ -1,6 +1,6 @@
 # 🧐 About Me
 
-Hi there! I am a final-year PhD student in Computer Science at HKU, under the supervision of [Prof. Chao Huang](https://sites.google.com/view/chaoh/home). Before that, I received my Bachelor's degree at Harbin Institute of Technology in July 2022.
+Hi there! I am a Postdoctoral researcher in Computer Science at HKU, under the supervision of [Prof. Chao Huang](https://sites.google.com/view/chaoh/home). I received my Ph.D. degree in Computer Science from HKU in July 2026, also supervised by Prof. Chao Huang. Before that, I received my Bachelor's degree at Harbin Institute of Technology in July 2022.
 
 **Research Interests:**
 
@@ -10,8 +10,8 @@ My research interests encompass <span style="color:#007acc; font-weight:bold;">i
 
 <span style="font-size:1.3em; vertical-align:middle;">&#128233;</span>
 <span style="color:#007acc; font-weight:bold;">
-I am currently seeking opportunities in both industry and academia, with a particular interest in postdoc positions.
+I am always open to academic collaborations and discussions.
 </span>
 <span style="color:#ff7043; font-weight:bold; background-color: #fff3e0; padding: 2px 6px; border-radius: 4px;">
-<u>Feel free to contact me about suitable positions.</u>
+<u>Feel free to reach out if you are interested in working together.</u>
 </span>
