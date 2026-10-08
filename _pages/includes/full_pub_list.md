@@ -114,7 +114,7 @@ Tianyu Fan, Yuhao Yang, <b>Yangqin Jiang</b>, Yifei Zhang, Yuxuan Chen, Chao Hua
   <span class="tag">Financial Agent</span>
 </div>
 
-🏆 <font color="red">over ~10k Stars on Github</font>
+🏆 <font color="red">over ~20k Stars on Github</font>
 
 </div>
 </div>
@@ -129,7 +129,7 @@ Tianyu Fan, Yuhao Yang, <b>Yangqin Jiang</b>, Yifei Zhang, Yuxuan Chen, Chao Hua
 <div class="tags">
   <span class="tag">GUI Agent</span>
 </div>
-🏆 <font color="red">over ~700 Stars on Github</font>
+🏆 <font color="red">around 1k Stars on Github</font>
 
 </div>
 </div>
