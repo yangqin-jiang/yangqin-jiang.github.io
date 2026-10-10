@@ -94,7 +94,9 @@
   img {
     max-width: 175px;
     min-width: 75px;
-    border-radius: 50%;
+    // square photo with the site's standard corner radius (was 50% = circle,
+    // which cropped most of the picture out)
+    border-radius: $border-radius;
 
     @include breakpoint($large) {
       padding: 5px;
